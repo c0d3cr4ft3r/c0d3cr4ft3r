@@ -28,7 +28,7 @@
 ![Testing](https://go-skill-icons.vercel.app/api/icons?i=jest,cypress,datadog&perline=3)
 
 ## Browsers & DevTools  
-![Browsers](https://go-skill-icons.vercel.app/api/icons?i=chrome,chromedevtools,chromium,firefox,brave&perline=4)
+![Browsers](https://go-skill-icons.vercel.app/api/icons?i=chrome,chromedevtools,chromium,firefox,brave&perline=6)
 
 ## Build Tools & Package Managers  
 ![Build Tools](https://go-skill-icons.vercel.app/api/icons?i=axios,babel,webpack,vite,pnpm&perline=5)
